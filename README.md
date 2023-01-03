@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is to create a basic website that links to various recipes. While it will not be pretty, unless I am into brutalist web design, I am confident that it will showcase my knowledge in the foundations of HTML and will serve as a good template for future projects.
